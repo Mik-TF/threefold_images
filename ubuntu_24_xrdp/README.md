@@ -36,7 +36,7 @@ This directory contains a script to create a VM flist with Ubuntu and XRDP for t
 
 1. Clone this repository:
    ```
-   git clone https://github.com/threefoldtech/tf-images
+   git clone https://github.com/mik-tf/threefold_images
    cd ./tf-images/tfgrid3/ubuntu_24_xrdp
    ```
 
@@ -55,8 +55,8 @@ This directory contains a script to create a VM flist with Ubuntu and XRDP for t
 
 1. Clone this repository:
    ```
-   git clone https://github.com/threefoldtech/tf-images
-   cd ./tf-images/tfgrid3/ubuntu_24_xrdp
+   git clone https://github.com/mik-tf/threefold_images
+   cd ./threefold_images/tfgrid3/ubuntu_24_xrdp
    ```
 
 2. Run the build command using make:
